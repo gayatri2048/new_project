@@ -9,6 +9,7 @@
     <?php
     echo "Hello";
     echo "World";
+    echo "hi world";
     ?>
 </body>
 </html>
